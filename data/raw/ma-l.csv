@@ -7398,10 +7398,11 @@ MA-L,345E08,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110
 MA-L,D83134,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
 MA-L,105932,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
 MA-L,B0EE7B,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
-MA-L,BC8D7E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,D42DC5,"i-PRO Co., Ltd.","14th Floor, Shinagawa Intercity Building A, 2-15-1 Fukuoka City  Konan JP 812-8531 "
-MA-L,4C2F7B,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,9CDFB3,NXP Semiconductor (Tianjin) LTD.,"No.15 Xinghua Avenue, Xiqing Economic Development Area Tianjin  CN 300385 "
+MA-L,4C2F7B,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,BC8D7E,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
+MA-L,640864,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C47981,Ehya LTD,2570 Al Khalij Rd - Ash Shati Al Gharbi Dist. Unit Number 11 Dammam   SA 32413 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
@@ -14705,6 +14706,7 @@ MA-L,20EFBD,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110
 MA-L,D46C62,"MultiTracks.com, LLC","1500 Arrow Point Drive Building 7, Suite 701 Cedar Park TX US 78613 "
 MA-L,00D0CE,TASKING Labs,"BRODISCE 7, 10C  Trzin  SI 1236 "
 MA-L,846EBC,Nokia solutions and networks Pvt Ltd,"Radiance Ivy terrace, Block 4, 9R, Egattur, Chennai Chennai TamilNadu IN 600130 "
+MA-L,00596C,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -22061,6 +22063,7 @@ MA-L,BCD7D4,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110
 MA-L,0C8247,CIG SHANGHAI CO LTD,"5th Floor, Building 8 No 2388 Chenhang Road  SHANGHAI  CN 201114 "
 MA-L,78ED25,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,447609,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,F814DD,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -22084,7 +22087,6 @@ MA-L,54C078,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE
 MA-L,E81711,"Shenzhen Vipstech Co., Ltd","Building 10th, Baiwangxin Industrial Park, No. 1002 Songbai Road, Xili Street,  Shenzhen Guangdong CN 518100 "
 MA-L,200B74,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
 MA-L,F8FE5E,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,0025DF,Taser International Inc.,17800 N 85th St. Scottsdale AZ US 85255 
 MA-L,4C62DF,"Hangzhou Hikvision Digital Technology Co.,Ltd.",No.555 Qianmo Road  Hangzhou Zhejiang CN 310052 
 MA-L,102874,"Shenzhen Jingxun Technology Co., Ltd.","3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District Shenzhen  CN 518071 "
 MA-L,7C7398,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
@@ -29498,6 +29500,8 @@ MA-L,B04F3C,Genuine Optics,"2025 Gateway Place, Suite 128 San Jose CA US 95110 "
 MA-L,9C06CF,PLAUD Inc.,"8 The Green, Ste A Dover DE US 19901 "
 MA-L,78862E,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,148501,Rivos Inc.,"3315 Scott Blvd, Fourth Floor Santa Clara CA US 95054 "
+MA-L,0025DF,"Axon Enterprise, Inc.",17800 N 85th St. Scottsdale AZ US 85255 
+MA-L,080FE5,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,E84A54,"Beijing Xiaomi Mobile Software Co., Ltd","The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District Beijing Beijing CN 100085 "
